@@ -1,8 +1,15 @@
-Data Analyst | Data-driven Insights | Python | SQL | Tableau
 
+Cybersecurity professional specializing in penetration testing, bug bounty hunting, and Web3 security. Passionate about securing digital ecosystems by identifying vulnerabilities and building robust defenses. Advocate for decentralized technologies and privacy-first solutions.
 
-Hello! I'm Saurabh Tripathi, a dedicated and results-oriented Data Analyst with a passion for turning raw data into actionable insights. I specialize in extracting meaningful patterns and trends to guide data-driven decision-making processes. With a strong foundation in Python, SQL, and Tableau, I am skilled at transforming complex datasets into clear visualizations and reports.
-<!---
-saurabhh11/saurabhh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:
+Penetration Testing: Web, Mobile, Network, and API Security
+
+Bug Bounty: Vulnerability discovery and responsible disclosure (HackerOne, Bugcrowd, etc.)
+
+Web3 Security: Smart contract auditing, blockchain vulnerability assessment, DeFi protocols
+
+Tools: Burp Suite, Metasploit, Nmap, Wireshark, Hardhat, Foundry, Slither
+
+Languages: Python, JavaScript, Solidity, Go, Bash
+
+Certifications: EWPTXv2 , CAP , CNSP
